@@ -57,11 +57,11 @@ In 2022, private jet flights between italian airports tracked by OpenSkyNetwork 
 -  What should shock the most is that sometimes private jets are used to perform very short routes, such as **Venice - Treviso** or **Ciampino - Fiumicino**, which are only **23 and 38 km** respectively.
 - **Milan Linate - Milan Malpensa**, which is only **64 km long**, and has been flown **around 20 times** in 2022, emitting a total of **around 3,7 tons of CO2**.
 
-### Emissions comparison for the most flown route:
+### Emissions comparison for a single flight on the most flown route (per person):
 <img src="https://github.com/LookAtPiomba/AircraftTracker/blob/cf0b8e7a98fa333490f85d1dd44f0e8261aa4ab7/img/barplot.png">
 For just one fligth from Milan to Rome, when someone chooses to use a private jet emits **6 times more CO2** than who chooses commercial airplane, and **18 times more CO2** than who chooses a Frecciarossa train!
 
-### Total emission comparison for the most flown route:
+### Emissions comparison for all flights on the most flown route (per person):
 <img src="https://github.com/LookAtPiomba/AircraftTracker/blob/cf0b8e7a98fa333490f85d1dd44f0e8261aa4ab7/img/bubbles.png">
 We multiplied each emission by the number of flights Rome-Milan in 2022:  
 
