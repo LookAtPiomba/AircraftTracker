@@ -26,7 +26,7 @@ To achieve our goal, we will follow a series of methodological steps:
 
     - *Data on flights and aircraft will be collected from [OpenSky Network](https://opensky-network.org/).*  
     - *Data on airports will be collected from [HDX](https://data.humdata.org/dataset/ourairports-ita?force_layout=desktop).*  
-    - *Data on trains will be collected from [HDX](https://data.humdata.org).*  
+    - *Data on railways will be collected from [HDX](https://data.humdata.org).*  
     - *Data on italian boundaries are collected from [Istat](https://www.istat.it/it/archivio/222527)*  
 
 2. **Emissions Calculation**: We will employ standard methodologies to calculate greenhouse gas emissions produced by jets that flew over these routes, taking into account some available factors such as fuel used, engine type, and passenger capacity.
