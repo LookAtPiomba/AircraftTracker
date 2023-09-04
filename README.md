@@ -36,9 +36,25 @@ To achieve our goal, we will follow a series of methodological steps:
 
 4. **Emissions Comparison**: We will compare emissions from private jets with theoretical estimates of emissions produced by more sustainable alternatives for the selected routes.
 
-## Some Visualizations
-
 ## Some results
+
+### Analysis of the routes:
+**Most flown route**: 
+- in 2022, the most flown route was **Milan Linate - Rome Ciampino**, with **around 227 flights**, and emitting a total of around **373,8 tons of CO2**. This means that 373,8/227 = **1,65 tons of CO2 per flight** are emitted on this route, corresponding to slightly more than 1/3 of the average yearly emissions of a person for just one flight.
+
+**Shortest routes**:
+-  What should shock the most is that sometimes private jets are used to perform very short routes, such as **Venice - Treviso** or **Ciampino - Fiumicino**, which are only 23 and 38 km respectively.
+- **Milan Linate - Milan Malpensa**, which is only **64 km long**, and has been flown **around 20 times** in 2022, emitting a total of **around 3,7 tons of CO2**.
+
+### Emissions comparison for the most flown route:
+[barplot](img/barplot.png)
+For just one fligth from Milan to Rome, when someone chooses to use a private jet emits 373.8/62.3 = **6 times more CO2** than who chooses commercial airplane, and 373.8/21 = **17,8 times more CO2** than who chooses a Frecciarossa train!
+
+[bubbleplot](img/bubbles.png)
+We multiplied each emission by the number of flights Rome-Milan in 2022:
+- If every one of these flights was performed using a commercial airplane, the total emissions would be around 62,3 * 227 = 14,1 tons of CO2, which is **around 80 tons of CO2 less than the emissions produced by private jets** per person.
+- If every one of these flights was performed using a Frecciarossa train, the total emissions would be around 21 * 227 = 4,8 tons of CO2, which is **around 70,5 tons of CO2 less than the emissions produced by private jets** per person.  
+Compared to the average annual emission of a person, just considering private jet flights for the Rome-Milan route, as much CO2 was emitted in 2022 **as that emitted by 18 people in a year**! (84,9/4,7)
 
 ## Conclusions
 In conclusion, this project has delved into the world of private jet aviation in Italy with the aim of shedding light on a complex issue. It is important to emphasize that the intention here is not to vilify private jet usage itself. Rather, the focus has been on identifying instances where private jet travel may be easily replaced by more environmentally responsible alternatives, such as train transportation.
@@ -51,4 +67,3 @@ If the hoped-for reduction does not take place, the tax revenues could be used t
 It is crucial to recognize that addressing the environmental impact of private jet aviation in Italy, and globally, is a multifaceted challenge that requires collaboration between governments, businesses, and individuals. The introduction of emissions-based taxation is just one of many potential strategies to promote sustainability within the aviation industry.
 
 In closing, the examination of private jet aviation in Italy has highlighted the importance of balancing the convenience and necessity of private jet travel with environmental responsibility. By embracing innovative solutions like emissions-based taxation and supporting eco-friendly alternatives, we can collectively work towards a more sustainable and greener future for air travel in Italy and the world in general.
-
