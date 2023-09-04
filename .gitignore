@@ -1,8 +1,7 @@
 #Project files and folders
-data/Limiti01012023
 data/openskynetwork
 prova.ipynb
-
+cache/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
