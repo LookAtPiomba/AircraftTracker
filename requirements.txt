@@ -1,0 +1,9 @@
+pyopensky==1.4
+tqdm==4.65.0
+shapely==2.0.1
+geopy==2.4.0
+plotly==5.16.1
+osmnx==1.6.0
+circlify==0.15.0
+```
+
